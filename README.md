@@ -1,5 +1,5 @@
-# crypto-prices
-API of all cryptocurrency prices
+# abs-cbn-api
+API of scraped ABS-CBN articles
 
 ## Endpoints
 
